@@ -1,1 +1,1 @@
-amc hd : http://srvx.io:80/49119217125/snakeplay/71770
+http://srvx.io:80/49119217125/snakeplay/71770

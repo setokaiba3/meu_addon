@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-#testando
-
 # -*- coding: UTF-8 -*-
 # Copyright 2014
 # This program is free software: you can redistribute it and/or modify
@@ -19,7 +17,7 @@
 
 ##############BIBLIOTECAS A IMPORTAR E DEFINICOES####################
 
-import urllib,urllib2,re,xbmcplugin,xbmcgui,xbmc,xbmcaddon,string,base64
+import urllib,urllib2,re,xbmcplugin,xbmcgui,xbmc,xbmcaddon,string,base64,os
 
 import urlresolver
 from BeautifulSoup import BeautifulSoup
@@ -538,6 +536,7 @@ def addDir(name,url,mode,iconimage,pasta=True,total=1,plot=''):
 
 
 def CheckUpdate():
+	import os
 	Versao = '18.10.2020'
 	uversao = urllib2.urlopen("https://raw.githubusercontent.com/setokaiba3/meu_addon/main/versao.txt").read().replace('','').replace('','')
 	uversao = re.compile('[a-zA-Z\.\d]+').findall(uversao)[0]
@@ -548,7 +547,7 @@ def CheckUpdate():
 def Update():
 	Path = xbmc.translatePath(xbmcaddon.Addon().getAddonInfo('path') ).decode("utf-8");print Path
 	#try:
-	fonte = urllib2.urlopen("https://raw.githubusercontent.com/setokaiba3/Rede-Canais/main/redecanais.py?token=ARNZ4Z3GALZUOXUXMR6UMM27RWYPE").read().replace('','')
+	fonte = urllib2.urlopen("https://raw.githubusercontent.com/setokaiba3/meu_addon/main/redecanais.py").read().replace('','')
 	prog = re.compile('.+').findall(fonte)
 	if prog:
 		py = os.path.join(Path, "redecanais.py")

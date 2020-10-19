@@ -1,1 +1,1 @@
-https://store-images.s-microsoft.com/image/apps.54991.68307864442603829.676cbe70-1643-4bcc-a72b-f8ed4e2d4cc2.d5590cd0-239c-4d51-8bbd-363ae7761d52?mode=scale&q=90&h=1080&w=1920
+http://s2.glbimg.com/7B_srQyXERP_NoJCHSzgOnuwsyc=/smart/e.glbimg.com/og/ed/f/original/2017/07/26/best-sapce-photos-2017-designboom-10.jpg

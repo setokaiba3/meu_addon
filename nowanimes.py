@@ -380,13 +380,13 @@ def Update():
 
 	try:
 
-		fonte = urllib2.urlopen("https://raw.githubusercontent.com/setokaiba3/meu_addon/main/redecanais.py").read()
+		fonte = urllib2.urlopen("https://raw.githubusercontent.com/setokaiba3/meu_addon/main/nowanimes.py").read()
 
 		prog = re.compile('.+').findall(fonte)
 
 		if prog:
 
-			py = os.path.join(Path, "redecanais.py")
+			py = os.path.join(Path, "nowanimes.py")
 
 			file = open(py, "w")
 

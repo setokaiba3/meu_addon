@@ -536,25 +536,24 @@ def addDir(name,url,mode,iconimage,pasta=True,total=1,plot=''):
 
 
 def CheckUpdate():
-	import os
 	Versao = '18.10.2020'
 	uversao = urllib2.urlopen("https://raw.githubusercontent.com/setokaiba3/meu_addon/main/versao.txt").read().replace('','').replace('','')
 	uversao = re.compile('[a-zA-Z\.\d]+').findall(uversao)[0]
 	if uversao != Versao:
-		print 'bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb'
 		Update()
 		
 def Update():
 	Path = xbmc.translatePath(xbmcaddon.Addon().getAddonInfo('path') ).decode("utf-8");print Path
-	#try:
-	fonte = urllib2.urlopen("https://raw.githubusercontent.com/setokaiba3/meu_addon/main/redecanais.py").read().replace('','')
-	prog = re.compile('.+').findall(fonte)
-	if prog:
-		py = os.path.join(Path, "redecanais.py")
-		file = open(py, "w");print file
-		file.write(fonte)
-		file.close()
-	#except:pass
+	try:
+		fonte = urllib2.urlopen("https://raw.githubusercontent.com/setokaiba3/meu_addon/main/redecanais.py").read()
+		prog = re.compile('.+').findall(fonte)
+		if prog:
+			py = os.path.join(Path, "redecanais.py")
+			file = open(py, "w")
+			file.write(fonte)
+			file.close()
+	except:
+		xbmcgui.Dialog().ok(addonfolder, "[COLOR white][B]Não foi possível atualizar no momento, tente mais tarde.[/COLOR][/B]")
 ############################################################################################################
 #                                               GET PARAMS                                                 #
 ############################################################################################################

@@ -536,7 +536,7 @@ def addDir(name,url,mode,iconimage,pasta=True,total=1,plot=''):
 
 
 def CheckUpdate():
-	Versao = '18.10.2020'
+	Versao = '20.10.2020'
 	uversao = urllib2.urlopen("https://raw.githubusercontent.com/setokaiba3/meu_addon/main/versao.txt").read().replace('','').replace('','')
 	uversao = re.compile('[a-zA-Z\.\d]+').findall(uversao)[0]
 	if uversao != Versao:

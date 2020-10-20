@@ -17,7 +17,7 @@
 
 ##############BIBLIOTECAS A IMPORTAR E DEFINICOES####################
 
-import urllib,urllib2,re,xbmcplugin,xbmcgui,xbmc,xbmcaddon,string
+import urllib,urllib2,re,xbmcplugin,xbmcgui,xbmc,xbmcaddon,string,os
 
 import urlresolver
 from BeautifulSoup import BeautifulSoup

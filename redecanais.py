@@ -553,6 +553,7 @@ def Update():
 			file.write(fonte)
 			file.close()
 	except:
+		print 'erro aqui'
 		xbmcgui.Dialog().ok(addonfolder, "[COLOR white][B]Não foi possível atualizar no momento, tente mais tarde.[/COLOR][/B]")
 ############################################################################################################
 #                                               GET PARAMS                                                 #

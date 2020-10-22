@@ -1,4 +1,4 @@
--*-
+# -*- coding: utf-8 -*-
 ##############BIBLIOTECAS A IMPORTAR E DEFINICOES####################
 
 import urllib,urllib2,re,xbmcplugin,xbmcgui,xbmc,xbmcaddon,string,base64,os,urlresolver,sys

@@ -533,7 +533,7 @@ def addDir(name,url,mode,iconimage,pasta=True,total=1,plot=''):
 
 def CheckUpdate():
 	Versao = '20.10.2020'
-	uversao = urllib2.urlopen("https://raw.githubusercontent.com/setokaiba3/meu_addon/main/versao.txt").read().replace('','').replace('','')
+	uversao = urllib2.urlopen("https://raw.githubusercontent.com/setokaiba3/meu_addon/main/versao.txt").read()
 	uversao = re.compile('[a-zA-Z\.\d]+').findall(uversao)[0]
 	if uversao != Versao:
 		Update()
@@ -542,7 +542,7 @@ def CheckUpdate():
 def Update():
 	Path = xbmc.translatePath(xbmcaddon.Addon().getAddonInfo('path') ).decode("utf-8")
 	try:
-		fonte = urllib2.urlopen("https://raw.githubusercontent.com/setokaiba3/meu_addon/main/redecanais.py").read();fonte = fonte.replace('\r\n','\r')
+		fonte = urllib2.urlopen("https://raw.githubusercontent.com/setokaiba3/meu_addon/main/redecanais.py").read().replace('\r\n','\r')
 		prog = re.compile('.+').findall(fonte)
 		if prog:
 			py = os.path.join(Path, "redecanais.py")

@@ -543,7 +543,7 @@ def CheckUpdate():
 def Update():
 	Path = xbmc.translatePath(xbmcaddon.Addon().getAddonInfo('path') ).decode("utf-8")
 	try:
-		fonte = urllib2.urlopen("https://raw.githubusercontent.com/setokaiba3/meu_addon/main/redecanais.py").read();print fonte#.replace('\r\n','')
+		fonte = urllib2.urlopen("https://raw.githubusercontent.com/setokaiba3/meu_addon/main/redecanais.py").read();print fonte.replace('\r\n','')
 		prog = re.compile('.+').findall(fonte)
 		if prog:
 			py = os.path.join(Path, "redecanais.py")

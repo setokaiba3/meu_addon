@@ -1,1 +1,4 @@
-&http://srvx.io:80/49119217125/snakeplay/72993
+A&E FHD:http://srvx.io:80/49119217125/snakeplay/71760
+A&E FHD [H265]:http://srvx.io:80/49119217125/snakeplay/71761
+A&E HD:http://srvx.io:80/49119217125/snakeplay/71762
+A&E SD:http://srvx.io:80/49119217125/snakeplay/71763

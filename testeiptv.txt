@@ -1,4 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/gaF8wi7" group-title="Canais | Variedades",A Fazenda 2020 HD
-https://brasil.azureedge.net/RCFServer5/ondemand/AMLTO.mp4?attachment=true
-#https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/AMLTO.mp4?attachment=true
+https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/AMLTO.mp4

@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/gaF8wi7" group-title="Canais | Variedades",A Fazenda 2020 HD
 http://cast2tv.app
-http://srvx.io:80/49119217125/snakeplay/47910
+#http://srvx.io:80/49119217125/snakeplay/47910

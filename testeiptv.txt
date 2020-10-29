@@ -1,3 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/gaF8wi7" group-title="Canais | Variedades",A Fazenda 2020 HD
-http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
+http://10.0.0.108:8081/gim
+#http://187.120.222.12:8000/play/PremiereClubes/index.m3u8

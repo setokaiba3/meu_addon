@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/gaF8wi7" group-title="Canais | Variedades",A Fazenda 2020 HD
-http://10.0.0.115:30001/proxy/Wo5Kg6Z9/videozin/video-play.mp4/
+https://r3---sn-jxhpb-jo4e.googlevideo.com/videoplayback?expire=1604066971&ei=G66bX8-dDeypzLUPgpSGgAQ&ip=170.245.145.238&id=6a8f8086fdb7c850&itag=18&source=blogger&mh=Bu&mm=31&mn=sn-jxhpb-jo4e&ms=au&mv=m&mvi=3&pl=24&susc=bl&mime=video/mp4&dur=1454.080&lmt=1602187740675657&mt=1604038120&txp=1310224&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=AOq0QJ8wRAIgepbnXFmdMtARotRoL670K4jaLMJCMhQvSKvP73rMIwkCIExP5BUeC2Vl-XtLKKg9f30JrAo1kszWEHrYYK44uA0U&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAOSaEQbLShbN7N3v_lla7Vw4zk5WD8felQgARv41k8q9AiEAi7qqJ0MK6ve7_ytQOoTaFPw42Wr37BWb9odTIG0q5y4%3D&cpn=s92YHkN0Ll5__l-3&c=WEB_EMBEDDED_PLAYER&cver=20201028
 #http://10.0.0.108:8081/gim

@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/gaF8wi7" group-title="Canais | Variedades",A Fazenda 2020 HD
-https://r2---sn-bg0ezn7s.googlevideo.com/videoplayback?expire=1604065912&ei=-KmbX6vGHeW-7gL7w6HoDQ&ip=170.245.145.238&id=b7222fb6fe6094c7&itag=18&source=blogger&susc=bl&mime=video/mp4&dur=1321.865&lmt=1603940687444320&txp=1310224&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=AOq0QJ8wRgIhAKoCniOZ5t0GPUR48K7Vy7VNfZW2476E8wLgyjffsaPwAiEA7iAroP-nhn-9OiFxSFgoHZI855xfgHOJKdYcf-6V-ZQ%3D&cpn=59Uxm6RohLkt1rqg&c=WEB_EMBEDDED_PLAYER&cver=20201028&redirect_counter=1&cm2rm=sn-jxhpb-jo4e7d&req_id=81fb7381de0536e2&cms_redirect=yes&mh=KL&mm=29&mn=sn-bg0ezn7s&ms=rdu&mt=1604037046&mv=m&mvi=2&pl=24&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgD3AH3jIkewFjxHpFkqor6FVYBZr5knAF22aKogDfuAMCIBZ_6y7hH7hj4__tMUQIE7Mk5boDAOt3r0tE2lxrvW4T
+https://www.nowanimes.com/videozin/video-play.mp4/?contentId=RTUwbllxb2hKRFArUysxREVnb3FSZWxXdEs3bEZOSzJueFlCZFozYzlpRT0=
 #http://10.0.0.108:8081/gim

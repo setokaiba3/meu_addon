@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/gaF8wi7" group-title="Canais | Variedades",A Fazenda 2020 HD
-https://zeota.xyz/play.php?z=naruto-shippuden/01e02.mp4
+https://r2---sn-jxhpb-jo4l.googlevideo.com/videoplayback?expire=1604067467&ei=C7CbX8i6EOLPzLUPoouduAs&ip=170.245.145.238&id=65c3d44ec903d4cd&itag=18&source=blogger&mh=9Z&mm=31&mn=sn-jxhpb-jo4l&ms=au&mv=m&mvi=2&pl=24&susc=bl&mime=video/mp4&dur=1389.389&lmt=1499881991931199&mt=1604038600&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=AOq0QJ8wRQIgMv0aPLCLodtuuTlkHObKnRhYcuEbIzvKW5L3jyqlhQACIQCLMO9uQx6JX-TIKCmR2ZWzaOJaMFyKSO6VXpFSjsLA0g%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAM5hFTg-2gyK2YVSSeIST5FOvWnkuPZqOtfFFl9RR_asAiEA1kZgUvp0EjmkTilYkIJ5xBU1CNAzX9Gm_Bd3vjHVwAI%3D&cpn=-axWE65rjs0bQoK7&c=WEB_EMBEDDED_PLAYER&cver=20201028
 #http://10.0.0.108:8081/gim

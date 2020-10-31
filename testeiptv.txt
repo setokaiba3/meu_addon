@@ -1,1 +1,1 @@
-ftp://10.0.0.113:2221/raw/iptv.txt
+ftp://10.0.0.113:2221/raw/iptv.mp4

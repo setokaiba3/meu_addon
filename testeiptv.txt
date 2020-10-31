@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/gaF8wi7" group-title="Canais | Variedades",A Fazenda 2020 HD
-ftp://10.0.0.113:2221/WhatsApp/Media/WhatsApp%20Documents/Sent/new_lista.txt
+ftp://10.0.0.113:2221/WhatsApp/Media/WhatsApp%20Documents/Sent/Canais.m3u
 #https://www.nowanimes.com/videozin/video-play.mp4/blogger.php?contentId=V1FNZ25WSUZncUJlVDU5RUJiOG5VK2xXdEs3bEZOSzJueFlCZFozYzlpRT0=
 #http://10.0.0.108:8081/gim

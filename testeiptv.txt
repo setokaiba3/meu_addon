@@ -1,2 +1,2 @@
-ftp://10.0.0.113:2221/Video/Real Bout.mp4
+https://newsvdbr.xyz/play.php?f=beyblade-burst/01.mp4|referer=https://nowanimes.com/
 #ftp://10.0.0.113:2221/raw/iptv.mp4

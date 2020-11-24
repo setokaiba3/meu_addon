@@ -1,5 +1,5 @@
 # encoded by pyprotect
-# https://keltecmp.net/pyprotect
+
 #checkintegrity007
 
 import base64, codecs
